@@ -1,4 +1,4 @@
-# ARandomSpiderWalk
+# A random spider walk
 This is my first time using Monte Carlo simulation. Wish me luck :D.
 
 So, this is the problem:

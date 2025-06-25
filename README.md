@@ -16,3 +16,7 @@ To simulate these spiders we have to understand what implies moving at a random 
 After getting these two formulas we only need to use random values and we will be next to finishing. Simulating a large quantity of spiders and checking the ones that got into the house would be the last steps to finding the probability of the spider being in the square after 240 minutes.
 
 After doing it I thought making a visual representation would be the best way to understanding the proces that we are going through.
+
+![Simulation of 100 spiders](/100_spiders.png)
+![Simulation of 1000 spiders](/1000_spiders.png)
+![Simulation of 10000 spiders](/10000_spiders.png)

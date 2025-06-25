@@ -11,6 +11,8 @@ So, this is the problem:
 
 For this problem we are going to simulate a very large quantity of spiders. Check how many of them arrive at the square that we are looking for. And theorically this will result in a relation that is very close to the probability.
 
-To simulate these spiders we have to understand what implies moving at a random angle. First of all, we are going to be working with x and y coordinates. So moving at an angle has to be tranformed into the horizontal movement and the vertical movement. We can get those vlues using the sin and cos functions. Getting the formulas movement\*sin(angle) = y_movement and movement\*cos(angle) = x_movement.
+To simulate these spiders we have to understand what implies moving at a random angle. First of all, we are going to be working with x and y coordinates. So moving at an angle has to be tranformed into the horizontal movement and the vertical movement. We can get those values using the sin and cos functions. Getting the formulas movement\*sin(angle) = y_movement and movement\*cos(angle) = x_movement.
 
-After getting these two formulas we only need to use random values and we will be next to finishing. 
+After getting these two formulas we only need to use random values and we will be next to finishing. Simulating a large quantity of spiders and checking the ones that got into the house would be the last steps to finding the probability of the spider being in the square after 240 minutes.
+
+After doing it I thought making a visual representation would be the best way to understanding the proces that we are going through.
